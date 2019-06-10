@@ -9,9 +9,8 @@ En esta miniserie te enseño a convertir un sitio web en aplicación web progres
 
 Mis Redes Sociales:
 
-* Web: https://jonmircha.com/cursos
-* Youtube: https://www.youtube.com/channel/UCXR7VjA26PcHP3vb6F2X3VQ
-* GitHub: https://github.com/jonmircha
-* Facebook: https://www.facebook.com/ProgramadorFitness/
-* Twitter: https://twitter.com/jonmircha
-* Instagram: https://www.instagram.com/jonmircha/
+* Youtube: https://www.youtube.com/Colimote79
+* GitHub: https://github.com/Colimote79
+* Facebook: https://www.facebook.com/Colimote79
+* Twitter: https://twitter.com/Colimote79
+* Instagram: https://www.instagram.com/Colimote79
